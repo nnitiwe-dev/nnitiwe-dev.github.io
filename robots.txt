@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://brittanychiang.com/sitemap/sitemap-index.xml
-Host: https://brittanychiang.com
+Sitemap: https://nnitiwe-dev.github.io/sitemap/sitemap-index.xml
+Host: https://nnitiwe-dev.github.io
